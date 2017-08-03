@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloEyakub</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about">This is all about\n
+        to view my blog\n
+    Stay tuned and stay with me.
+    </string>
+    <string name="developer">Developed by
+    </string>
+    <string name="developer_details">MD. Eyakub Sorkar\neyakubsorkar@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

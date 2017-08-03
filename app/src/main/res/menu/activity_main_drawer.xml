@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Group">
+
+        <menu>
+            <item
+                android:id="@+id/nav_Linux"
+
+                android:icon="@drawable/ic_menu_send"
+                android:title="Linux" />
+            <item
+                android:id="@+id/nav_Online_judge"
+
+                android:icon="@drawable/ic_menu_send"
+                android:title="Problem Solution of Online Judge" />
+        </menu>
+
+    </item>
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_Facebook"
+
+                android:icon="?android:attr/alertDialogIcon"
+                android:title="Facebook" />
+
+            <item
+                android:id="@+id/nav_About"
+                android:icon="@android:drawable/ic_menu_info_details"
+
+                android:title="About"></item>
+        </menu>
+    </item>
+
+</menu>
